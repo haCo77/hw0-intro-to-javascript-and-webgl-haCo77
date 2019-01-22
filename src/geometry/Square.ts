@@ -26,6 +26,8 @@ class Square extends Drawable {
                                      1, 1, 0, 1,
                                      -1, 1, 0, 1]);
 
+  
+
     this.generateIdx();
     this.generatePos();
     this.generateNor();
